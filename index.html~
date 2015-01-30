@@ -9,28 +9,71 @@ body{
 	
 }
 #frame{
-	margin: 0 auto;
 	max-height: 785px;
-	max-width: 500px;
+	max-width: 980px;
 	background: black;
-	position: absolute;
+	margin-left: auto;
+   margin-right: auto;
+   width: 70%;
+   overflow: hidden;
 }
 #claim{
 	color: white;
-	font-size: 22px;
+	font-size: 33px;
 }
 .bubble{
-	font-size: 11px;
-	width: 161px;
+	font-size: 16px;
+	width: 250px;
 	float: left;
 	background-color: rgba(0,0,0,1);
 	color: white;
 	word-break: keep-all;
 	border: 2px solid white;
 	position: relative;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px 10px;
 }
 #a1{
 	border-radius: 20px;
+	wdith: 222px;
+}
+#a2{
+	width: 140px;
+	border-radius: 411px;
+	wdith: 222px;
+}
+#a3{
+	border-radius: 50px;
+	wdith: 222px;
+}
+#a4{
+	border-radius: 50px;
+	wdith: 222px;
+}
+#a5{
+	border-radius: 50px;
+	wdith: 222px;
+}
+#a6{
+	border-radius: 50px;
+	wdith: 222px;
+}
+#a7{
+	border-radius: 50px;
+	wdith: 222px;
+}
+#a8{
+	border-radius: 50px;
+	wdith: 222px;
+}
+#a9{
+	border-radius: 50px;
+	wdith: 222px;
+}
+#a10{
+	border-radius: 50px;
+	wdith: 222px;
 }
 </style>
 <body>
