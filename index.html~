@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<title></title>
+</head>
+<style>
+body{
+	
+}
+#frame{
+	margin: 0 auto;
+	max-height: 785px;
+	max-width: 500px;
+	background: black;
+	position: absolute;
+}
+#claim{
+	color: white;
+	font-size: 22px;
+}
+.bubble{
+	font-size: 11px;
+	width: 161px;
+	float: left;
+	background-color: rgba(0,0,0,1);
+	color: white;
+	word-break: keep-all;
+	border: 2px solid white;
+	position: relative;
+}
+#a1{
+	border-radius: 20px;
+}
+</style>
+<body>
+<div id="frame">
+<div id="claim">Wer kennt das nicht? AEB gibt Antworten.</div>
+<div id="a1" class="bubble">Erkennen Sie kritische Situationen und Störungen in Ihrrem Lagerbetrieb sofort?</div>
+<div id="a2" class="bubble">Nach welchem Prinzip kommissionieren Sie?</div>
+<div id="a3" class="bubble">Sie möchten uns auch eine Frage stellen? Kein Problem. Einfach hier klicken.</div>
+<div id="a4" class="bubble">Schon mal an Cross-Docking gedacht?</div>
+<div id="a5" class="bubble">Möchten Sie Ihre Fehlerquote in Ihrem Lager senken?</div>
+<div id="a6" class="bubble">Kraftakt Inventur: Unterstützung erwünscht?</div>
+<div id="a7" class="bubble">Fällt es Ihnen leicht, die Auftragsabwicklung in Peak-Zeiten flexibel zu steuern?</div>
+<div id="a8" class="bubble">ist Ihre Handhabung vom Handling Units wirklich handlich?</div>
+<div id="a9" class="bubble">ist Ihr Wareneingang bereits perfekt organisiert?</div>
+<div id="a10" class="bubble">Schreckgespenst Out-of-Stock?</div>
+</div>
+</body>
+</html>
